@@ -1,9 +1,7 @@
-Tiled + FlashPunk
-=================
+FlashPunk Inventory
+===================
 
-A demonstration of using [FlashPunk](http://useflashpunk.net) to generate a tilemap from Tiled's `.tmx` format.
-
-![Screenshot](https://raw.githubusercontent.com/zachwlewis/tiled-flashpunk/master/screenshot.png)
+A demonstration of using [FlashPunk](http://useflashpunk.net) to create a contained `Inventory` object.
 
 Requirements
 ------------
